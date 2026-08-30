@@ -11,12 +11,12 @@
 #### Team Members
 |         Role    |         👤 Name         |   🎓 Roll Number      |     ⚧️ Gender   |    🏫 Department / Programme   |
 |:---------------:|:------------------------|:----------------------:|:---------------:|:-------------------------------:| 
-|   Team Leader   |    Thirupugazhl S D     | CB.EN.U4EEE24149       |       Male      |Electrical&Electronics Engineering                             |  
+|   Team Leader   |    Thirupugazhl S D     | CB.EN.U4EEE24149       |       Male      |B.Tech ELC                             |  
 |    Member 2     |    Tharun Karthick R    | CB.EN.U4ELC24145       |       Male      |Electrical&Computer Engineering                                 |  
-|    Member 3     |    Sridevi B            | CB.EN.U4EEE24144       |       Female    |Electrical&Electronics Engineering                                 |  
-|    Member 4     |    Meghna N N           | CB.EN.U4EEE24127        |       Female   |Electrical&Electronics Engineering                               |   
-|    Member 5     |    Pooja R K            | CB.EN.U4EEE24134      |       Female     |Electrical&Electronics Engineering                                 |  
-|    Member 6     |    Bhavyaa M            | CB.EN.U4ELC24103       |       Female    |Electrical&Computer Engineering |   
+|    Member 3     |    Sridevi B            | CB.EN.U4EEE24144       |       Female    | B.Tech EEE                        |  
+|    Member 4     |    Meghna N N           | CB.EN.U4EEE24127        |       Female   |B.Tech EEE                               |   
+|    Member 5     |    Pooja R K            | CB.EN.U4EEE24134      |       Female     | B.Tech EEE                                 |  
+|    Member 6     |    Bhavyaa M            | CB.EN.U4ELC24103       |       Female    |B.Tech ELC |   
 
 #### Mentor Details
 
