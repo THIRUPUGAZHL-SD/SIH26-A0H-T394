@@ -5,18 +5,18 @@
   <img src="assets/images/header.png" width=921 />
 </p>
 
-## SIH26-A0H-TXXX
+## SIH26-A0H-T394
 ### Team Details
 #### **Team Name** <<Insert Your Team Name>> <br/>
 #### Team Members
 |         Role    |         👤 Name         |   🎓 Roll Number      |     ⚧️ Gender   |    🏫 Department / Programme   |
 |:---------------:|:------------------------|:----------------------:|:---------------:|:-------------------------------:| 
-|   Team Leader   |                         |                        |                 |                                 |  
-|    Member 2     |                         |                        |                 |                                 |  
-|    Member 3     |                         |                        |                 |                                 |  
-|    Member 4     |                         |                        |                 |                                 |   
-|    Member 5     |                         |                        |                 |                                 |  
-|    Member 6     |                         |                        |     Female      |                                 |   
+|   Team Leader   |    Thirupugazhl S D     | CB.EN.U4EEE24149       |       Male      |                                 |  
+|    Member 2     |    Tharun Karthick R    | CB.EN.U4EEE24149       |       Male      |                                 |  
+|    Member 3     |    Sridevi B            | CB.EN.U4EEE24144       |       Female    |                                 |  
+|    Member 4     |    Meghna N N           | CB.EN.U4EEE24127        |       Female    |                                 |   
+|    Member 5     |    Pooja R K            | CB.EN.U4EEE24134      |       Female    |                                 |  
+|    Member 6     |    Bhavyaa M            | CB.EN.U4ELC24103       |       Female    |                                |   
 
 #### Mentor Details
 
@@ -31,14 +31,14 @@
 
 #### PS#1
 
-* **Problem Statement ID:**
-* **Problem Statement Title:**
-* **Theme / Category:**
-* **Ministry / Organization:**, wherever applicable
+* **Problem Statement ID:SIH26005**
+* **Problem Statement Title:Solar-Powered Smart Mini Cold Storage System for Fresh Vegetables in North Eastern Region (NER)**
+* **Theme / Category:	Agriculture, FoodTech & Rural Development**
+* **Ministry / Organization:Ministry of Development of North Eastern Region (MDoNER)**, wherever applicable
 
 #### PS#2
 
-* **Problem Statement ID:**
-* **Problem Statement Title:**
-* **Theme / Category:**
-* **Ministry / Organization:**, wherever applicable
+* **Problem Statement ID:SIH26172**
+* **Problem Statement Title:Low Latency and Efficient Voice Activator for Edge Devices**
+* **Theme / Category:	Smart Automation**
+* **Ministry / Organization:Indian Space Research Organisation(ISRO)**, wherever applicable
