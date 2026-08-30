@@ -12,7 +12,7 @@
 |         Role    |         👤 Name         |   🎓 Roll Number      |     ⚧️ Gender   |    🏫 Department / Programme   |
 |:---------------:|:------------------------|:----------------------:|:---------------:|:-------------------------------:| 
 |   Team Leader   |    Thirupugazhl S D     | CB.EN.U4EEE24149       |       Male      |                                 |  
-|    Member 2     |    Tharun Karthick R    | CB.EN.U4EEE24149       |       Male      |                                 |  
+|    Member 2     |    Tharun Karthick R    | CB.EN.U4ELC24145       |       Male      |                                 |  
 |    Member 3     |    Sridevi B            | CB.EN.U4EEE24144       |       Female    |                                 |  
 |    Member 4     |    Meghna N N           | CB.EN.U4EEE24127        |       Female    |                                 |   
 |    Member 5     |    Pooja R K            | CB.EN.U4EEE24134      |       Female    |                                 |  
