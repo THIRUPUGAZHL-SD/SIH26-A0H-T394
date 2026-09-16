@@ -35,6 +35,7 @@
 * **Problem Statement Title:Solar-Powered Smart Mini Cold Storage System for Fresh Vegetables in North Eastern Region (NER)**
 * **Theme / Category:	Agriculture, FoodTech & Rural Development**
 * **Ministry / Organization:Ministry of Development of North Eastern Region (MDoNER)**, wherever applicable
+* https://youtu.be/j7xI9t7CNuE?si=NvwLl3EaYnhyR0W3
 
 #### PS#2
 
