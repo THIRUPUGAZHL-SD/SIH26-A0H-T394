@@ -22,7 +22,7 @@
 
 |     Type       |       Mentor Name   |       Designation     |          Department     |       Official Email ID  |
 |:--------------:|:--------------------|:---------------------:|:-----------------------:|:------------------------ |
-| Academic       |                     |                       |                         |                          |
+| Academic       | LANGO KARUPPASAMY   | Associate Professor   |Electrical and Electronics Engineering |k_ilango@cb.amrita.edu                          |
 | Industry       |                     |                       |                         |                          |
 
 -----
