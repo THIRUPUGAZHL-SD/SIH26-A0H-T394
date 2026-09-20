@@ -9,7 +9,14 @@
 ### Team Details
 #### **Team Name** <<Insert Your Team Name>> <br/>
 #### Team Members
-|         Role    |         👤 Name         |   🎓 Roll Number      |     ⚧️ Gender   |    🏫 Department / Programme   |
+|         Role    |         👤 Name         |   🎓 Roll Number      |     ⚧️ Gender   |    🏫 Department / Programme | 🏷️ Caste Category | ♿ Disability Details |
+|:-----------------:|:--------------------:|
+|  BC   |  None |
+|  BC   |  None |
+|  OC   |  None |
+| Others|  None |
+|Others |  None |
+|Others |  None |
 |:---------------:|:------------------------|:----------------------:|:---------------:|:-------------------------------:| 
 |   Team Leader   |    Thirupugazhl S D     | CB.EN.U4EEE24149       |       Male      | EEE/B.Tech                            |  
 |    Member 2     |    Tharun Karthick R    | CB.EN.U4ELC24145       |       Male      | ELC/B.Tech                                 |  
