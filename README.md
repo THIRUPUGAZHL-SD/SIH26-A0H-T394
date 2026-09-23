@@ -11,12 +11,12 @@
 #### Team Members
 |Role|👤 Name|🎓 Roll Number|⚧️ Gender|🏫 Department / Programme | 🏷️ Caste Category | ♿ Disability Details |
 |:---------------:|:------------------------|:----------------------:|:---------------:|:-------------------------------:|:-------------------------------:|:-------------------------------:| 
-|   Team Leader   |    Thirupugazhl S D     | CB.EN.U4EEE24149       |       Male      | EEE/B.Tech  | BC | None |                          |  
+|   Team Leader   |    Thirupugazhl S D     | CB.EN.U4EEE24149       |       Male      | EEE/B.Tech  | MBC | None |                          |  
 |    Member 2     |    Tharun Karthick R    | CB.EN.U4ELC24145       |       Male      | ELC/B.Tech  | BC | None |                               |  
 |    Member 3     |    Sridevi B            | CB.EN.U4EEE24144       |       Female    |  EEE/B.Tech | OC | None |                     |  
 |    Member 4     |    Meghna N N           | CB.EN.U4EEE24127        |       Female   | EEE/B.Tech  | OC| None |                            |   
-|    Member 5     |    Pooja R K            | CB.EN.U4EEE24134      |       Female     |  EEE/B.Tech | Others| None |                                |  
-|    Member 6     |    Bhavyaa M            | CB.EN.U4ELC24103       |       Female    | ELC/B.Tech  | Others| None |  
+|    Member 5     |    Pooja R K            | CB.EN.U4EEE24134      |       Female     |  EEE/B.Tech | MBC| None |                                |  
+|    Member 6     |    Bhavyaa M            | CB.EN.U4ELC24103       |       Female    | ELC/B.Tech  | MBC| None |  
 
 #### Mentor Details
 
